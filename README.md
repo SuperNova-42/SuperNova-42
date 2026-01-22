@@ -8,7 +8,7 @@ I'm a **Computer Science** student at the **University of Central Florida (UCF)*
 - **Tools:** Git/GitHub, Linux (Ubuntu)
 
 ### 🚀 Featured Project
-**[Full-Stack LMS & Code Judge](https://github.com/SuperNova-42/YOUR_REPO_NAME)**
+**[Full-Stack Learning Management System & Code Judge](https://github.com/SuperNova-42/IB-CS-Website)**
 *Developed as my IB Computer Science Internal Assessment.*
 - Built a web platform for students to practice programming using **Flask** and **SQLAlchemy** for database abstraction.
 - Engineered a custom backend to securely execute and grade user code in real-time.
